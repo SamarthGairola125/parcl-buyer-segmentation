@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-11-15T13:01:10+00:00",
+  "model_sha256": "2bb0b53c568f4224400e3272d8a85edca6ec100a4cdde874df22543a133a72db",
+  "method": "PCA (3 components) on the frozen model's scaled feature matrix, seed 42",
+  "explained_variance": [
+    0.2664,
+    0.1176,
+    0.1096
+  ],
+  "top_loadings": {
+    "pc1": [
+      "units_bought",
+      "tower_hhi",
+      "total_spend"
+    ],
+    "pc2": [
+      "premium_index",
+      "office_share",
+      "age"
+    ],
+    "pc3": [
+      "age",
+      "recency_months",
+      "satisfaction_score"
+    ]
+  },
+  "records": 2000
+}

@@ -1,0 +1,5 @@
+cluster,mean_jaccard,dissolved_pct,verdict,segment
+0,0.8277670951310945,7.000000000000001,Stable,Diversified Repeat Buyers
+1,0.7901791648875368,21.0,Stable,Portfolio Builders
+2,0.7911341332330032,20.0,Stable,Focused Residential Buyers
+3,0.723966680398937,40.0,Pattern (doubtful),Mixed-Use Office Buyers

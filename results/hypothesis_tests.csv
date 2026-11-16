@@ -1,0 +1,14 @@
+id,hypothesis,test,p_value,evidence,p_bh,result
+H1,Investment buyers are younger than Home buyers,Mann-Whitney U,0.14341380659120667,54.80 vs 55.95 (n=615 vs 1385),0.37287589713713737,Not supported
+H2,Investment buyers apply for loans more often,Chi-square,0.47064463581708327,38.0% vs 36.2% (n=615 vs 1385),0.7647975332027603,Not supported
+H3,International buyers are more investment-oriented,Chi-square,0.7795149324939353,31.4% vs 30.6% (n=462 vs 1538),0.9212449202201054,Not supported
+H4,Companies buy more units (brief C3),Mann-Whitney U,0.6667930249629446,3.70 vs 3.65 (n=103 vs 1897),0.9212449202201054,Not supported
+H5,Company representatives differ in age from individuals,Mann-Whitney U,1.089539693160624e-06,47.60 vs 56.03 (n=103 vs 1897),7.0820080055440555e-06,Supported
+H6,Satisfaction differs by referral channel,Kruskal-Wallis,0.9386450689265685,"{'Agency': 3.02, 'Client': 3.06, 'Website': 3.03}",0.9511257362393148,Not supported
+H7,Higher-spending clients are more satisfied (brief C4),Spearman rho,0.06391762743011292,rho = 0.041,0.207732289147867,Not supported
+H8a,Investment buyers hold a higher share of office units,Mann-Whitney U,0.3925044580075602,0.16 vs 0.15 (n=615 vs 1385),0.7289368505854689,Not supported
+H8b,Companies hold a higher share of office units,Mann-Whitney U,0.9511257362393148,0.15 vs 0.15 (n=103 vs 1897),0.9511257362393148,Not supported
+H9,Loan applicants buy cheaper units,Mann-Whitney U,0.7378637690033785,346903.66 vs 347198.43 (n=736 vs 1264),0.9212449202201054,Not supported
+H10,Cross-year repeat buyers spend more,Mann-Whitney U,2.292601602384246e-07,1281695.08 vs 1181367.55 (n=1575 vs 425),2.98038208309952e-06,Supported
+H14,International buyers spend differently from US buyers,Mann-Whitney U,0.009396855898326624,1228827.94 vs 1269852.05 (n=462 vs 1538),0.0407197088927487,Supported
+H15,Loan applicants are younger (brief C2),Mann-Whitney U,0.1901433783069265,54.94 vs 55.98 (n=736 vs 1264),0.41197731966500745,Not supported

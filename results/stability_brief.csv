@@ -1,0 +1,5 @@
+cluster,mean_jaccard,dissolved_pct,verdict,segment
+0,0.8326272514727745,0.0,Stable,Younger Dissatisfied
+1,0.8479819288591053,0.0,Stable,Younger Satisfied
+2,0.8235288198309659,0.0,Stable,Older Dissatisfied
+3,0.830599834593299,0.0,Stable,Older Satisfied
