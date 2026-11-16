@@ -2,7 +2,7 @@
 
 Machine-learning segmentation of Parcl Co. Limited's property buyers, with a live analytics dashboard and a research paper.
 
-**Live dashboard:** `https://<your-app>.streamlit.app`  ·  **Paper:** [`reports/research_paper.pdf`](reports/research_paper.pdf)  ·  **Notebook:** [`notebooks/buyer_segmentation_analysis.ipynb`](notebooks/buyer_segmentation_analysis.ipynb)
+**Live dashboard:** [open the app](https://01a1e2ca-20c8-8ccd-bb3c-53df26ea613f.share.connect.posit.cloud/)  ·  **Paper:** [`reports/research_paper.pdf`](reports/research_paper.pdf)  ·  **Notebook:** [`notebooks/buyer_segmentation_analysis.ipynb`](notebooks/buyer_segmentation_analysis.ipynb)
 
 ---
 
@@ -115,4 +115,4 @@ streamlit run app/streamlit_app.py
 
 ## Author
 
-**Uttara Gairola**, Data Science Internship, Unified Mentor. Licensed under MIT.
+**Samarth Gairola**, Data Science Internship, Unified Mentor. Licensed under MIT.
